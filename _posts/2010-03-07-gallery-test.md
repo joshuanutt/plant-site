@@ -23,7 +23,7 @@ gallery:
 
 
 
-{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+{% include gallery caption="This is a sample gallery with Markdown support." %}
 
 
 |                |                         |
