@@ -6,27 +6,27 @@ tags:
   - Gallery
 gallery:
   - url: /assets/images/monkey-grass-01.jpg
-    image_path: /assets/images/monkey-grass01.jpg
+    image_path: /assets/images/monkey-grass-01.jpg
     alt: "monkey-grass"
     title: "Monkey Grass"
   - url: /assets/images/monkey-grass-02.jpg
-    image_path: /assets/images/monkey-grass02.jpg
+    image_path: /assets/images/monkey-grass-02.jpg
     alt: "monkey-grass"
     title: "Monkey Grass"
   - url: /assets/images/monkey-grass-03.jpg
-    image_path: /assets/images/monkey-grass03.jpg
+    image_path: /assets/images/monkey-grass-03.jpg
     alt: "monkey-grass"
     title: "Monkey Grass"
   - url: /assets/images/monkey-grass-04.jpg
-    image_path: /assets/images/monkey-grass04.jpg
+    image_path: /assets/images/monkey-grass-04.jpg
     alt: "monkey-grass"
     title: "Monkey Grass"
   - url: /assets/images/monkey-grass-05.jpg
-    image_path: /assets/images/monkey-grass05.jpg
+    image_path: /assets/images/monkey-grass-05.jpg
     alt: "monkey-grass"
     title: "Monkey Grass"
   - url: /assets/images/monkey-grass-06.jpg
-    image_path: /assets/images/monkey-grass06.jpg
+    image_path: /assets/images/monkey-grass-06.jpg
     alt: "monkey-grass"
     title: "Monkey Grass"
 ---
