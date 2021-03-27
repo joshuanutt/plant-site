@@ -1,14 +1,12 @@
 ---
-title: "Post: Link"
+title: "Gallery: Test"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
-link: https://github.com
+  - Gallery
 ---
 
-This theme supports **link posts**, made famous by John Gruber. To use, just add `link: http://url-you-want-linked` to the post's YAML front matter and you're done.
+# Plant-Name
 
 gallery:
   - url: https://flic.kr/p/8a6Ven
@@ -21,8 +19,18 @@ gallery:
     image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
     alt: "Fog in the trees"
     
-> And this is how a quote looks.
 
-Some [link](#) can also be shown.
+
+
 
 {% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+
+
+|                |                         |
+|----------------|-------------------------|
+| Exposure       | Partial sun, shade      |
+| Details        | White Flower,           |
+| Bloom          | Summer                  |
+| Height         | 2in-8in rarely 12       |
+| Width          | indefinite, mat-forming |
+| Yearly Pruning |                         |
