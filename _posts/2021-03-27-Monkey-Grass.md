@@ -33,9 +33,6 @@ gallery:
     title: "Monkey Grass"
 ---
 
-# Monkey Grass
-
-
 {% include gallery caption="This is a sample gallery with Markdown support." %}
 
 > Clump forming ground cover spreading by rhizomes. Monkey Grass has narrow, grass-like leaves, but it is not a grass. 

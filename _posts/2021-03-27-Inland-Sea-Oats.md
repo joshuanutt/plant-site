@@ -35,8 +35,6 @@ gallery:
     title: "Inland Sea Oats"
 ---
 
-# Inland Sea Oats
-
 {% include gallery caption="Inland Sea Oats" %}
 
 > ... dense clump of foliage are the primary ornamental assets. Plants grow equally well in sun or shade and make a useful groundcover ...

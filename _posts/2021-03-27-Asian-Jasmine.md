@@ -4,6 +4,8 @@ categories:
   - Groundcover
 tags:
   - Sun
+  - Partial Sun
+  - Shade
 gallery:
   - url: /assets/images/asian-jasmine/01.jpg
     image_path: /assets/images/asian-jasmine/01.jpg
@@ -20,8 +22,6 @@ gallery:
 
 
 ---
-
-# Asian Jasmine
 
 {% include gallery caption="The premier all-purpose groundcover for the southern two-thirds of Texas." %}
 

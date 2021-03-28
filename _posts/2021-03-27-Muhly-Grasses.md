@@ -33,8 +33,6 @@ gallery:
     title: "Lindheimer Muhly Grass"
 ---
 
-# Muhly Grasses
-
 {% include gallery caption="Muhly Grass" %}
 
 > .. excellent drought and heat tolerances, interesting textures, and in some cases attractive flowers ..
