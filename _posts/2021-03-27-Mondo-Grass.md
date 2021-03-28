@@ -6,8 +6,8 @@ tags:
   - Shade
   - Partial Sun
 gallery:
-  - url: /assets/images/mondo-grass/filename.jpg
-    image_path: /assets/images/mondo-grass/filename.jpg
+  - url: /assets/images/mondo-grass/01.jpg
+    image_path: /assets/images/mondo-grass/01.jpg
     alt: "Mondo Grass"
     title: "Mondo Grass"
   - url: /assets/images/mondo-grass/02.jpeg
