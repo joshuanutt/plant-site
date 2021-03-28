@@ -31,12 +31,9 @@ gallery:
     image_path: /assets/images/mexican-feathergrass/06.jpeg
     alt: "Mexican Feathergrass"
     title: "Mexican Feathergrass"
-
-
-
 ---
 
-{% include gallery caption="Delicate and graceful leaves and airy flower heads sway gently with the slightest breeze." %}
+{% include gallery caption="Airy flower heads sway gently with the slightest breeze." %}
 
 > .. small clump-forming extremely fine textured grass with a tuft of soft wiry windswept leaves. Leaves are a bright to soft green in summer, turning tan in winter, and waving softly in the slightest breeze.
 
