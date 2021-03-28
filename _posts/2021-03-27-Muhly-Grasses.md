@@ -23,7 +23,7 @@ gallery:
     image_path: /assets/images/muhley-grasses/04.jpg
     alt: "Pink Muhly Grass"
     title: "Pink Muhly Grass"
-  - url: /assets/images/muhley-grasses/m05.jpg
+  - url: /assets/images/muhley-grasses/05.jpg
     image_path: /assets/images/muhley-grasses/05.jpg
     alt: "Muhly Grass"
     title: "Lindheimer Muhly Grass"
