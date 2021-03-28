@@ -23,12 +23,12 @@ gallery:
     image_path: /assets/images/mexican-feathergrass/04.jpg
     alt: "Mexican Feathergrass"
     title: "Mexican Feathergrass"
-  - url: /assets/images/mexican-feathergrass/05.jpg
-    image_path: /assets/images/mexican-feathergrass/05.jpg
+  - url: /assets/images/mexican-feathergrass/05.png
+    image_path: /assets/images/mexican-feathergrass/05.png
     alt: "Mexican Feathergrass"
     title: "Mexican Feathergrass"
-  - url: /assets/images/mexican-feathergrass/06.jpg
-    image_path: /assets/images/mexican-feathergrass/06.jpg
+  - url: /assets/images/mexican-feathergrass/06.jpeg
+    image_path: /assets/images/mexican-feathergrass/06.jpeg
     alt: "Mexican Feathergrass"
     title: "Mexican Feathergrass"
 
