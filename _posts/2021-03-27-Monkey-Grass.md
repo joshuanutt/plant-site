@@ -1,9 +1,11 @@
 ---
 title: "Monkey Grass"
 categories:
-  - Plants
+  - Groundcover
 tags:
-  - Gallery
+  - Perennial
+  - Partial Sun
+  - Shade
 gallery:
   - url: /assets/images/monkey-grass-01.jpg
     image_path: /assets/images/monkey-grass-01.jpg
@@ -45,11 +47,11 @@ gallery:
 > With adequate water, it will survive in full sun in Texas, but looks much better if receiving at least afternoon shade
 
 
-|                |                         |
-|----------------|-------------------------|
-| Exposure       | Partial sun, shade      |
-| Details        | White Flower,           |
-| Bloom          | Summer                  |
-| Height         | 2in-8in rarely 12       |
-| Width          | indefinite, mat-forming |
-| Yearly Pruning |                         |
+|                |                                       |
+|----------------|---------------------------------------|
+| Exposure       | Partial sun, shade                    |
+| Details        | White Flower,  Perennial, Groundcover |
+| Bloom          | Summer                                |
+| Height         | 2in-8in rarely 12                     |
+| Width          | indefinite, mat-forming               |
+| Yearly Pruning |                                       |
