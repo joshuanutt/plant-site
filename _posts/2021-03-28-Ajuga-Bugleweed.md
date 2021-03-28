@@ -17,10 +17,6 @@ gallery:
     image_path: /assets/images/ajuga/03.jpg
     alt: "Ajuga Bugleweed"
     title: "Ajuga Bugleweed"
-  - url: /assets/images/ajuga/04.jpg
-    image_path: /assets/images/ajuga/04.jpg
-    alt: "Ajuga Bugleweed"
-    title: "Ajuga Bugleweed"
   - url: /assets/images/ajuga/05.jpg
     image_path: /assets/images/ajuga/05.jpg
     alt: "Ajuga Bugleweed"
