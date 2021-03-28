@@ -35,6 +35,12 @@ gallery:
 
 {% include gallery caption="This is a sample gallery with Markdown support." %}
 
+** In so far as 'monkey grass' is often the terminology used for liriope, then yes, which is confusing since mondo grass is also called 'monkey grass' and yet liriope and mondo grass are not the same at all. In fact, they aren't even grasses.
+
+Mondo grass plants are typically shorter than monkey grass, and may be darker green.
+The leaves of mondo grass are more narrow than those of monkey grass.
+**
+
 > Clump forming ground cover spreading by rhizomes. Monkey Grass has narrow, grass-like leaves, but it is not a grass. 
 
 > Valued as a shade groundcover

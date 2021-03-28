@@ -41,3 +41,9 @@ gallery:
 | Height         | 6inch-2ft mounding layers |
 | Width          | indeterminant             |
 | Yearly Pruning |                           |
+
+## Planting
+
+- Plant 12 to 16 inches apart to allow for the best conditions to spread. 
+- Prefers well-drained, moist soil when initially planted. A slow-feeding fertilizer will help it to maintain its active growth cycle.
+
